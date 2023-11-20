@@ -14,3 +14,6 @@ Ideas Phase:
 - [ ] quick tasks
 - [ ] due dates on tasks
 - [ ] repeating tasks (e.g. daily)
+
+Contributors:
+Phoebe Lo
