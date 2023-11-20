@@ -16,4 +16,5 @@ Ideas Phase:
 - [ ] repeating tasks (e.g. daily)
 
 Contributors:
-Phoebe Lo
+- [Sonia Liao](https://github.com/sonialiao)
+- [Phoebe Lo](https://github.com/tsaichenlo)
