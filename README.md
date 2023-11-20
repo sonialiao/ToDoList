@@ -1,4 +1,4 @@
-# Winter 2023 -- Making A To-Do List with React.js
+# Winter 2023 -- To-Do List with React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -12,3 +12,5 @@ In Progress:
 Ideas Phase:
 - [ ] assign task to people & filter list based on owner of task
 - [ ] quick tasks
+- [ ] due dates on tasks
+- [ ] repeating tasks (e.g. daily)
